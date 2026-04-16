@@ -1,11 +1,1 @@
 
- <img width="1366" height="768" alt="Screenshot 2026-04-16 203241" src="https://github.com/user-attachments/assets/12d4263a-1519-450b-8441-98322b6e0816" />
-Perubahan yang dilakukan
-- Mengubah quest_widget.dart agar dinamis dengan menerima 
-  parameter title, reward, icon, dan iconColor dari luar
-- Mengubah main.dart untuk menyimpan data quest dalam 
-  List<Map> dan dikirim ke QuestWidget menggunakan .map()
-
-File yang diubah
-- lib/quest_widget.dart
-- lib/main.dart
