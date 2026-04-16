@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       'iconColor': Colors.purpleAccent,
     },
     {
-      'title': 'Kumpulkan 5 Ramuan',
+      'title': 'Kumpulkan 10 Ramuan',
       'reward': '50 Gold',
       'icon': Icons.local_florist,
       'iconColor': Colors.green,
